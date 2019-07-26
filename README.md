@@ -1,4 +1,4 @@
-## Deploying Standalone VM-Series in vSphere ##
+## vSphere Single Palo Alto Networks VM Creator ##
 Skillet to deploy and bootstrap a standalone VM-Series on vSphere environment. 
 
 The skillet is using VMware terraform provider to automate the deployment of a standalone VM-Series in vSphere environment.
